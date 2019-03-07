@@ -1,0 +1,27 @@
+
+
+h1{
+    color:blue;
+    text-align: center;
+    background-color:lightblue;
+
+}
+li a {
+    
+    
+    padding: 20px;
+    text-decoration: none;
+    
+
+  }
+  li a:hover{
+      background-color: blueviolet;
+      padding: 25px;
+  }
+  li {
+      background-color: lightblue;
+    display:inline-block;
+    padding: 25px;
+    color: solid black;
+  }
+    
